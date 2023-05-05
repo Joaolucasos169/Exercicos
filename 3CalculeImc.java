@@ -3,7 +3,7 @@ package desafiosmodulo1;
 import java.util.Scanner;
 
 public class Imc {
-// Calcule o IMC
+// Calcule o IMC.
 	public static void main(String[] args) {
 
 		Scanner entrada = new Scanner(System.in);

@@ -3,7 +3,7 @@ package desafiosmodulo1;
 import java.util.Scanner;
 
 public class Equacao2Grau {
-// Criar um programa que resolve equações do 2° grau
+// Criar um programa que resolve equações do 2° grau.
 	public static void main(String[] args) {
 
 		Scanner entrada = new Scanner(System.in);

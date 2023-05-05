@@ -3,7 +3,7 @@ package desafiosmodulo1;
 import java.util.Scanner;
 
 public class AreaTriangulo {
-// Calcule a Área de um triângulo
+// Calcule a Área de um triângulo.
 	public static void main(String[] args) {
 		
 		Scanner entrada = new Scanner(System.in);
